@@ -1,0 +1,15 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 50%), url(../../images/lama2.jpeg);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  font-size: 40px;
+}
+.banner h2 {
+  font-size: 24px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
